@@ -1,0 +1,48 @@
+body{
+    background-color:orangered;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#cabecalho{
+    background-color: blue;
+    color: yellow;
+    border: navy 3px solid;
+    border-radius: 10px;
+    padding-left: 50px;
+    margin-bottom: 30px;
+    box-shadow: royalblue 2px 2px 5px;
+    
+}
+
+#conteudo{
+    background-color: #ebecf0;
+    border: orange 3px solid;
+    border-radius: 10px;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+img.imagens{
+    width: 100px;
+}
+
+input{
+    width: 95%;
+    border: 0;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+label{
+    margin-left: 10px;
+}
+
+#custom-select {
+    background-color: orange;
+    color: blue;
+    margin-left: 10px;
+    border-radius: 5px;
+    border: 0;
+
+  }
